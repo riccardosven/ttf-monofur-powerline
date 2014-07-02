@@ -16,7 +16,8 @@ Patched version of Monofur with Powerline symbols
 Merits
 ======
 All the merits go to Tobias, for the original Monofur_ font, and to
-Julio, who applied the patch to include the powerline symbols
+Julio_, who applied the patch to include the powerline symbols
 
 .. _BY-NC-SA: http://creativecommons.org/licenses/by-nc-sa/3.0/
 .. _Monofur: http://www.dafont.com/monofur.font
+.. _Julio: https://github.com/jbiason
