@@ -10,9 +10,9 @@ Patched version of Monofur with Powerline symbols
 :Version: 1.0-git
 :License: BY-NC-SA_
 :Source: https://github.com/rsrsl/ttf-monofur-powerline
-
+:Maintainer: Riccardo Sven Risuleo  
 Merits
 ======
 All the merits go to Tobias, for the original Monofur_ font, and to
 Julio, who applied the patch to include the powerline symbols
-:Maintainer: Riccardo Sven Risuleo <riccardosven [at] gmail [dot] com>
+
