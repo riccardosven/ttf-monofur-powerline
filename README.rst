@@ -7,7 +7,7 @@ Patched version of Monofur with Powerline symbols
 -------------------------------------------------
 
 :Maintainer: Riccardo Sven Risuleo <riccardosven [at] gmail [dot] com>
-:Original Author: Tobias Benjamin Köhler
+:Author: Tobias Benjamin Köhler
 :Patch by: Julio Biason <julio [dot] biason [at] gmail [dot] com>
 :Version: 1.0-git
 :License: BY-NC-SA_
